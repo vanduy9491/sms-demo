@@ -1,0 +1,31 @@
+{
+  "common": {
+    "upload": "アップロード",
+    "jobs": "ジョブー覧",
+    "signout": "サインアウト",
+    "signin": "ログイン",
+    "save": "更新"
+  },
+  "upload": {
+    "pleaseUploadFiles": "ファイルをドロップしてアップロード",
+    "or": "または",
+    "selectFile": "ファイルを選択",
+    "saveUpload": "保存",
+    "folderName":  "フォルダ名",
+    "folderNamePlaceholder":  "フォルダ名を入力してください",
+    "tagName":  "タグ",
+    "tagPlaceholder":  "フォルダに付けるタグを入力してください（任意）例：＃test",
+    "save": "保存"
+  },
+  "signin": {
+    "signinWithCredentials": "ユーザ名とパスワードの入力してください",
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "usernameOrPasswordIncorrect": "ユーザー名またはパスワードが間違っています",
+    "usernameIsRequired": "ユーザー名が必要",
+    "passwordIsRequired": "パスワードが必要"
+  },
+  "result": {
+    "export": "出力"
+  }
+}

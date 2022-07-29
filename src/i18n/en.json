@@ -1,0 +1,27 @@
+{
+    "common": {
+        "upload": "Upload",
+        "jobs": "Jobs",
+        "folders": "Folders",
+        "proofreading": "ProfReading",
+        "proofreadings": "ProfReadings",
+        "results": "OCR　Results",
+        "signout": "Sign Out",
+        "signin": "Sign In",
+        "save": "Save"
+    },
+    "upload": {
+        "pleaseUploadFiles": "Please Drop File",
+        "or": "Or",
+        "selectFile": "Select File",
+        "saveUpload": "Save"
+    },
+    "signin": {
+        "signinWithCredentials": "Sign in with credentials",
+        "username": "UserName",
+        "password": "Password",
+        "usernameOrPasswordIncorrect": "Username or password is incorrect.",
+        "usernameIsRequired": "Username is Required",
+        "passwordIsRequired": "Password is Required"
+    }
+}
