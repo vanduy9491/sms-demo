@@ -30,7 +30,7 @@
     "dev": "next dev",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm run build:tailwind && npm run dev",
     "build:tailwind": "tailwind build styles/index.css -o styles/tailwind.css",
-    "server": "npx json-server --watch data.json --port 5000 ̀"
+    "server": "npx json-server --watch data.json --port 5000",
   },
   "eslintConfig": {
     "extends": "react-app"
